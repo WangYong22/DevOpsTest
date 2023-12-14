@@ -13,7 +13,7 @@ struct ContentView: View {
     @Query private var items: [Item]
 
     var body: some View {
-        Text("DevOps test")
+        Text("DevOps test WY")
             .padding()
         NavigationSplitView {
             List {
